@@ -1,6 +1,6 @@
 # Study Outcome Predictor
 
-**Studio Jabari** — an educational, dependency-free Python demonstration of logistic regression.
+An educational, dependency-free Python demonstration of logistic regression.
 
 This program estimates a student's probability of passing from one input feature: reported study hours. It trains a logistic regression model from a hand-constructed dataset, using batch gradient descent, and displays a live ASCII probability curve during training.
 
